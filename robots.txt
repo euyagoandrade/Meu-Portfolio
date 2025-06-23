@@ -1,0 +1,11 @@
+User-agent: *
+Allow: /
+
+# Sitemap
+Sitemap: https://yagoandrade.com.br/sitemap.xml
+
+# Evitar indexação de arquivos desnecessários
+Disallow: /admin/
+Disallow: /config/
+Disallow: /*.php$
+Disallow: /contact.php
