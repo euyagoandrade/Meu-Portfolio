@@ -1,7 +1,5 @@
 # 👋 Yago Andrade - Portfólio Profissional
 
-![Header](https://via.placeholder.com/1200x300.png?text=Yago+Andrade+-+Portf%C3%B3lio)
-
 ## 🚀 Sobre Mim
 
 Olá! Sou o **Yago Andrade**, um apaixonado por tecnologia e desenvolvimento de software. No site [yagoandrade.com.br](https://yagoandrade.com.br), apresento uma coleção de projetos e aprendizados que refletem minha trajetória profissional e pessoal.
